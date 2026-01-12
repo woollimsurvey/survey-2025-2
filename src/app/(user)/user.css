@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@layer base {
+  header {
+    @apply sticky top-4 z-40;
+  }
+}
